@@ -4,4 +4,4 @@ Took me about 30 minutes to make. 10 minutes to debug and 5 minutes to actually 
 
 Run installer.bat to start the program.
 
-Change clock.tick(60) to whatever to change the games FPS, it wouldnt matter whatever but yeah thought that was cool.
+Change clock.tick(60) to whatever to change the games speed/fps (dont do over like 500)
